@@ -1,5 +1,5 @@
 # CodeAlpha_Stock_Trading_Platform
-# CodeAlpha_Stock_Trading_Platform
+
 # Stock Trading GUI Platform
 
 ## 📌 Overview
